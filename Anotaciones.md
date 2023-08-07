@@ -56,7 +56,7 @@ Cada funcion debe obedecer a hacer solo lo que se le pide y nada mas, si crees q
 ---
 - 6. Uso de cometarios, solo cuando lo veas necesario. El codigo debe explicarse por si solo, el cometario debe obedecer a la pregunta del ¿que hace ? y no el ¿como lo hace ? 
 ---
-##Codigo de ejemplo
+## Codigo de ejemplo 🐱
 
 ```java
     public static int obtenerNumeroAleatorio() {
@@ -90,7 +90,7 @@ Cada funcion debe obedecer a hacer solo lo que se le pide y nada mas, si crees q
         return arrDeBoletos;
     }
 ```
-## Como yo lo hubiera resuelto 
+## Como yo lo hubiera resuelto 👀
 
 ```java
     public static void createTicket(int numberOfTick, int numberOfDgt) {
