@@ -1,4 +1,5 @@
 ### Ejercicio Boletas De Loteria 🌟
+
 ```java
 public static boolean comprobarNumeros(int x, int y, int n, int[][] numeros)
     {
